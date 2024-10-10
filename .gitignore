@@ -1,0 +1,17 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+ Logfile.txt
+ Logs/16 Sep 2024 IntapUpdation Log File.log
+ Logs/17 Sep 2024 IntapUpdation Log File.log
+ Logs/24 Sep 2024 IntapUpdation Log File.log
+ Logs/25 Sep 2024 IntapUpdation Log File.log
+ Logs/26 Sep 2024 IntapUpdation Log File.log
+ Logs/27 Sep 2024 IntapUpdation Log File.log
+ PCAP.py
+ Room.py
+ RoomManager.py
+ UATPipelineWithValidation.py
+ Uat Pipeline.py
+ Zip File with one valid attachment (2).zip
+ app1.log

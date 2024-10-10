@@ -1,0 +1,624 @@
+24/09/17 10:32:02 INFO ERROR in Leap Authorization Connection : HTTPConnectionPool(host='bizopstst.gslb.avi.infosys-cloud.com', port=80): Max retries exceeded with url: /api/authenticate (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x000001E018B0F9A0>: Failed to resolve 'bizopstst.gslb.avi.infosys-cloud.com' ([Errno 11001] getaddrinfo failed)"))
+24/09/17 10:32:03 INFO Intap Authorization API Response status code :200
+24/09/17 10:32:03 INFO Intap Authorization Token :eyJhbGciOiJSUzI1NiIsInR5cCIgOiAiSldUIiwia2lkIiA6ICIwdzNiaXlvQlp3blFQLU9SMG9XM3l1ek1HZVh3QzE4dUJPcUd2SklKWGlvIn0.eyJleHAiOjE3MjY1NTA4MjIsImlhdCI6MTcyNjU0OTMyMiwianRpIjoiYjBlMGI2Y2YtNGZjMi00ZjY3LTljODYtY2FjNTMxMGY2YzBhIiwiaXNzIjoiaHR0cHM6Ly9pbnRhcGlkbS5pbmZvc3lzYXBwcy5jb20vYXV0aC9yZWFsbXMvaW5mb3N5cyIsImF1ZCI6ImFjY291bnQiLCJzdWIiOiJmMWMxYTI5Yy03NDBkLTRmMDItYjNhYS1lNTRlZjYxYmQ4OWQiLCJ0eXAiOiJCZWFyZXIiLCJhenAiOiJpbmZ5Y2xpZW50Iiwic2Vzc2lvbl9zdGF0ZSI6ImUxMmFlNWM1LTgzODktNGE5ZS1iODZkLTk1ZThiYmJkMDdhMCIsImFsbG93ZWQtb3JpZ2lucyI6WyJodHRwczovL2Nvbm5lY3RpbmZ5LmluZm9zeXNhcHBzLmNvbS8qIiwiKiIsIi8qIiwiaHR0cHM6Ly9pbnRhcC5pbmZvc3lzYXBwcy5jb20vKiJdLCJyZWFsbV9hY2Nlc3MiOnsicm9sZXMiOlsib2ZmbGluZV9hY2Nlc3MiLCJ1bWFfYXV0aG9yaXphdGlvbiJdfSwicmVzb3VyY2VfYWNjZXNzIjp7ImFjY291bnQiOnsicm9sZXMiOlsibWFuYWdlLWFjY291bnQiLCJtYW5hZ2UtYWNjb3VudC1saW5rcyIsInZpZXctcHJvZmlsZSJdfX0sInNjb3BlIjoiZW1haWwgcHJvZmlsZSIsInNpZCI6ImUxMmFlNWM1LTgzODktNGE5ZS1iODZkLTk1ZThiYmJkMDdhMCIsInVwbiI6ImludGFwYmF0Y2h1c2VyQGluZm9zeXMuY29tIiwiZW1haWxfdmVyaWZpZWQiOnRydWUsIkVtcE5vIjoiMTIzNDU2NzgiLCJuYW1lIjoiaW50YXBiYXRjaHVzZXIiLCJwcmVmZXJyZWRfdXNlcm5hbWUiOiJpbnRhcGJhdGNodXNlciIsImdpdmVuX25hbWUiOiJpbnRhcGJhdGNodXNlciIsImVtYWlsIjoiaW50YXBiYXRjaHVzZXJAaW5mb3N5cy5jb20ifQ.CaLISAEhey2vJkpvGhR5Ri8eaBrm_JdN1gcaQK-uD4lFyk7C45zHpB6EUn_727uRerXhK1Jt0n2m6OjY7TC_f9KV-YUJVTGy6J2wsBevmtFCYY0cG8HE_FXspF4Z1cCqrDHlbpv2mtrJBui1PQEWZNg7-Lj8HT4V7jSx9iueP6fXJPECSokq3fK8Jc3wXYqp8nGVMYPelxnnoVWHYInCs5hWa1kc52V7il_pGxiQKwzTlbVcA1mvrpwxVyajn9jx2CzhQGJQ2J3Cj7v5ZH0YPtzw3XqWvLnmup3SsE_CkKbynnDvueYplTsRSuNpN8lkxUhOByTXUkbh1CGsj72A-w
+24/09/17 10:32:03 INFO Intap or Leap Authorization Failed
+24/09/17 10:32:03 INFO Mail application is not enabled. Hence, we cannot send mails
+24/09/17 10:32:45 INFO Leap Authorization Response Status : 200
+24/09/17 10:32:45 INFO Leap Authorization Token :eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJhZG1pbiIsImF1dGgiOiJVU0VSX1JPTEUiLCJleHAiOjE3MjY2MzU3NjV9.TY8g6vIWA3t09VFCKZ5tuD26ivvsbZIR0cxqt0GU-lK66eRqgYQ2k_GwB2SgA2Ggke2FSpOem-v-E4H0ipoFxQ
+24/09/17 10:32:46 INFO Intap Authorization API Response status code :200
+24/09/17 10:32:46 INFO Intap Authorization Token :eyJhbGciOiJSUzI1NiIsInR5cCIgOiAiSldUIiwia2lkIiA6ICIwdzNiaXlvQlp3blFQLU9SMG9XM3l1ek1HZVh3QzE4dUJPcUd2SklKWGlvIn0.eyJleHAiOjE3MjY1NTA4NjUsImlhdCI6MTcyNjU0OTM2NSwianRpIjoiMmI0YTY3YzEtYjkwYi00ODY0LTk3M2EtZjgyYjg2MDBlMjYyIiwiaXNzIjoiaHR0cHM6Ly9pbnRhcGlkbS5pbmZvc3lzYXBwcy5jb20vYXV0aC9yZWFsbXMvaW5mb3N5cyIsImF1ZCI6ImFjY291bnQiLCJzdWIiOiJmMWMxYTI5Yy03NDBkLTRmMDItYjNhYS1lNTRlZjYxYmQ4OWQiLCJ0eXAiOiJCZWFyZXIiLCJhenAiOiJpbmZ5Y2xpZW50Iiwic2Vzc2lvbl9zdGF0ZSI6IjQ0ODQyYjgyLTRhODItNGRkZS05YjUzLTg1Mjk5MmQ2YzRmMyIsImFsbG93ZWQtb3JpZ2lucyI6WyJodHRwczovL2Nvbm5lY3RpbmZ5LmluZm9zeXNhcHBzLmNvbS8qIiwiKiIsIi8qIiwiaHR0cHM6Ly9pbnRhcC5pbmZvc3lzYXBwcy5jb20vKiJdLCJyZWFsbV9hY2Nlc3MiOnsicm9sZXMiOlsib2ZmbGluZV9hY2Nlc3MiLCJ1bWFfYXV0aG9yaXphdGlvbiJdfSwicmVzb3VyY2VfYWNjZXNzIjp7ImFjY291bnQiOnsicm9sZXMiOlsibWFuYWdlLWFjY291bnQiLCJtYW5hZ2UtYWNjb3VudC1saW5rcyIsInZpZXctcHJvZmlsZSJdfX0sInNjb3BlIjoiZW1haWwgcHJvZmlsZSIsInNpZCI6IjQ0ODQyYjgyLTRhODItNGRkZS05YjUzLTg1Mjk5MmQ2YzRmMyIsInVwbiI6ImludGFwYmF0Y2h1c2VyQGluZm9zeXMuY29tIiwiZW1haWxfdmVyaWZpZWQiOnRydWUsIkVtcE5vIjoiMTIzNDU2NzgiLCJuYW1lIjoiaW50YXBiYXRjaHVzZXIiLCJwcmVmZXJyZWRfdXNlcm5hbWUiOiJpbnRhcGJhdGNodXNlciIsImdpdmVuX25hbWUiOiJpbnRhcGJhdGNodXNlciIsImVtYWlsIjoiaW50YXBiYXRjaHVzZXJAaW5mb3N5cy5jb20ifQ.O1hnMXI7hwcLg0BUQJCeA7xX9Ik9JXLml_VYCHoR98YWKUSPbDVdmQGb1XFofxB6fisnOLsem0e9SdYvgqVabLC-Bss9a39aeFZCJPSWqL2pDhe3a6s7bF6N96SxRY-rTKLVw725-yWXp5esQbsJkbqtrfAGHKcosmYmI1yy8TlHthN14o5hDCJzj6GdBTKK4GP2i_Rw5aZnxO3Aex3kmOUe5TpxBPBanCbsnwKThhk8qfUbpvIA3mliXWf84AUXYwlNSrhLNf-BaEYvVdKtj4lDhbehU3JrGmxOoEedKXgGekQbeIye6j6_G0R7IjgOQxphBQD-zSZM1fC0pUwr4w
+24/09/17 10:32:47 INFO Get global cases Inbox status code: 200
+24/09/17 10:32:47 INFO Global Inbox: {'counts': {'Inbox': '{"count":"0","label":"Inbox"}', 'Global': '{"count":"3","label":"Global"}', 'Completed': '{"count":"11","label":"Completed"}', 'Waiting': '{"count":"4","label":"Waiting"}'}, 'data': [{'processInstanceId': '27867303-5a0a-11ef-ab27-e6ae32899996', 'rowId': '27867303-5a0a-11ef-ab27-e6ae32899996', 'Dataset': 'LATLTRLF42552', 'email_unread': '1', 'formkey': 'LATAPRVP79788', 'ID': 'LO:00001773', 'Created Date': '2024-08-14 12:24:09.0', 'Last Updated Date': '2024-08-14 12:49:41.0', 'Current Assignee': '', 'emailSubject': 'infyhr - 1001017124/Testing', 'Due Date': '2024-08-16 17:25:12.997', 'Status': 'approved', 'Task Name': 'Intap Updation'}, {'processInstanceId': '1c2810ea-6533-11ef-ac4d-e289f541f4be', 'rowId': '1c2810ea-6533-11ef-ac4d-e289f541f4be', 'Dataset': 'LATLTRLF42552', 'email_unread': '1', 'formkey': 'LATAPRVP79788', 'ID': 'LO:00001937', 'Created Date': '2024-08-28 17:16:05.0', 'Last Updated Date': '2024-08-28 17:25:46.0', 'Current Assignee': '', 'emailSubject': 'infyhr - 1001017124/Testing', 'Due Date': '2024-09-02 12:46:06.0', 'Status': 'approved', 'Task Name': 'Intap Updation'}, {'processInstanceId': '6ae5a609-6ab3-11ef-840c-6eac4b935000', 'rowId': '6ae5a609-6ab3-11ef-840c-6eac4b935000', 'Dataset': 'LATLTRLF42552', 'email_unread': '1', 'formkey': 'LATAPRVP79788', 'ID': 'LO:00002990', 'Created Date': '2024-09-04 17:17:09.0', 'Last Updated Date': '2024-09-04 17:35:56.0', 'Current Assignee': '', 'emailSubject': 'Infyhr- 1001012288- testing- 04-09-2024', 'Due Date': '2024-09-09 12:47:09.0', 'Status': 'approved', 'Task Name': 'Intap Updation'}], 'inboxType': 'Global'}
+24/09/17 10:32:47 INFO count[k] : 0
+24/09/17 10:32:47 INFO count[k] : 3
+24/09/17 10:32:47 INFO count[k] : 11
+24/09/17 10:32:47 INFO count[k] : 4
+24/09/17 10:32:47 INFO raise error
+24/09/17 10:32:48 INFO Inbox Content status : 200
+24/09/17 10:32:48 INFO Type od InboxContent : <class 'dict'>
+24/09/17 10:32:48 INFO Type of InboxContent : <class 'list'>
+24/09/17 10:32:48 INFO IDLO:00001773
+24/09/17 10:32:48 INFO IDLO:00001937
+24/09/17 10:32:48 INFO IDLO:00002990
+24/09/17 10:32:48 INFO Length of caseid: 3
+24/09/17 10:32:48 INFO Case ID: [1773, 1937, 2990]
+24/09/17 10:32:49 INFO DatasetCount API Status Code: 200
+24/09/17 10:32:49 INFO Dataset Count : 1227
+24/09/17 10:32:49 INFO Data set API : http://bizopstst.gslb.avi.infosys-cloud.com/api/datasets/searchData/LATLTRLF42552/LateralOffer?page=0&size=10&sortEvent=BID&sortOrder=-1&searchParams=%7B%22and%22:%5B%5D%7D
+24/09/17 10:32:49 INFO GET Dataset API Status code: 200
+24/09/17 10:32:49 INFO ID : 5143
+24/09/17 10:32:49 INFO ID : 5142
+24/09/17 10:32:49 INFO ID : 5141
+24/09/17 10:32:49 INFO ID : 5140
+24/09/17 10:32:49 INFO ID : 5139
+24/09/17 10:32:49 INFO ID : 5138
+24/09/17 10:32:49 INFO ID : 5137
+24/09/17 10:32:49 INFO ID : 5136
+24/09/17 10:32:49 INFO ID : 5135
+24/09/17 10:32:49 INFO ID : 5134
+24/09/17 10:32:49 INFO Data set API : http://bizopstst.gslb.avi.infosys-cloud.com/api/datasets/searchData/LATLTRLF42552/LateralOffer?page=1&size=10&sortEvent=BID&sortOrder=-1&searchParams=%7B%22and%22:%5B%5D%7D
+24/09/17 10:32:50 INFO GET Dataset API Status code: 200
+24/09/17 10:32:50 INFO ID : 5133
+24/09/17 10:32:50 INFO ID : 5132
+24/09/17 10:32:50 INFO ID : 5131
+24/09/17 10:32:50 INFO ID : 5130
+24/09/17 10:32:50 INFO ID : 5129
+24/09/17 10:32:50 INFO ID : 5128
+24/09/17 10:32:50 INFO ID : 5127
+24/09/17 10:32:50 INFO ID : 5126
+24/09/17 10:32:50 INFO ID : 5125
+24/09/17 10:32:50 INFO ID : 5124
+24/09/17 10:32:50 INFO Data set API : http://bizopstst.gslb.avi.infosys-cloud.com/api/datasets/searchData/LATLTRLF42552/LateralOffer?page=2&size=10&sortEvent=BID&sortOrder=-1&searchParams=%7B%22and%22:%5B%5D%7D
+24/09/17 10:32:50 INFO GET Dataset API Status code: 200
+24/09/17 10:32:50 INFO ID : 5123
+24/09/17 10:32:50 INFO ID : 5122
+24/09/17 10:32:50 INFO ID : 5121
+24/09/17 10:32:50 INFO ID : 5120
+24/09/17 10:32:50 INFO ID : 5119
+24/09/17 10:32:50 INFO ID : 5118
+24/09/17 10:32:50 INFO ID : 5117
+24/09/17 10:32:50 INFO ID : 5116
+24/09/17 10:32:50 INFO ID : 5115
+24/09/17 10:32:50 INFO ID : 5114
+24/09/17 10:32:50 INFO Data set API : http://bizopstst.gslb.avi.infosys-cloud.com/api/datasets/searchData/LATLTRLF42552/LateralOffer?page=3&size=10&sortEvent=BID&sortOrder=-1&searchParams=%7B%22and%22:%5B%5D%7D
+24/09/17 10:32:51 INFO GET Dataset API Status code: 200
+24/09/17 10:32:51 INFO ID : 5113
+24/09/17 10:32:51 INFO ID : 5112
+24/09/17 10:32:51 INFO ID : 5111
+24/09/17 10:32:51 INFO ID : 5110
+24/09/17 10:32:51 INFO ID : 5109
+24/09/17 10:32:51 INFO ID : 5108
+24/09/17 10:32:51 INFO ID : 5107
+24/09/17 10:32:51 INFO ID : 5106
+24/09/17 10:32:51 INFO ID : 5105
+24/09/17 10:32:51 INFO ID : 5104
+24/09/17 10:32:51 INFO Data set API : http://bizopstst.gslb.avi.infosys-cloud.com/api/datasets/searchData/LATLTRLF42552/LateralOffer?page=4&size=10&sortEvent=BID&sortOrder=-1&searchParams=%7B%22and%22:%5B%5D%7D
+24/09/17 10:32:51 INFO GET Dataset API Status code: 200
+24/09/17 10:32:51 INFO ID : 5103
+24/09/17 10:32:51 INFO ID : 5102
+24/09/17 10:32:51 INFO ID : 5101
+24/09/17 10:32:51 INFO ID : 5100
+24/09/17 10:32:51 INFO ID : 5099
+24/09/17 10:32:51 INFO ID : 5098
+24/09/17 10:32:51 INFO ID : 5097
+24/09/17 10:32:51 INFO ID : 5096
+24/09/17 10:32:51 INFO ID : 5095
+24/09/17 10:32:51 INFO ID : 5094
+24/09/17 10:32:51 INFO Data set API : http://bizopstst.gslb.avi.infosys-cloud.com/api/datasets/searchData/LATLTRLF42552/LateralOffer?page=5&size=10&sortEvent=BID&sortOrder=-1&searchParams=%7B%22and%22:%5B%5D%7D
+24/09/17 10:32:52 INFO GET Dataset API Status code: 200
+24/09/17 10:32:52 INFO ID : 5093
+24/09/17 10:32:52 INFO ID : 5092
+24/09/17 10:32:52 INFO ID : 5091
+24/09/17 10:32:52 INFO ID : 5090
+24/09/17 10:32:52 INFO ID : 5089
+24/09/17 10:32:52 INFO ID : 5088
+24/09/17 10:32:52 INFO ID : 5087
+24/09/17 10:32:52 INFO ID : 5086
+24/09/17 10:32:52 INFO ID : 5085
+24/09/17 10:32:52 INFO ID : 5084
+24/09/17 10:32:52 INFO Data set API : http://bizopstst.gslb.avi.infosys-cloud.com/api/datasets/searchData/LATLTRLF42552/LateralOffer?page=6&size=10&sortEvent=BID&sortOrder=-1&searchParams=%7B%22and%22:%5B%5D%7D
+24/09/17 10:32:52 INFO GET Dataset API Status code: 200
+24/09/17 10:32:52 INFO ID : 5083
+24/09/17 10:32:52 INFO ID : 5082
+24/09/17 10:32:52 INFO ID : 5081
+24/09/17 10:32:52 INFO ID : 5080
+24/09/17 10:32:52 INFO ID : 5079
+24/09/17 10:32:52 INFO ID : 5078
+24/09/17 10:32:52 INFO ID : 5077
+24/09/17 10:32:52 INFO ID : 5076
+24/09/17 10:32:52 INFO ID : 5075
+24/09/17 10:32:52 INFO ID : 5074
+24/09/17 10:32:52 INFO Data set API : http://bizopstst.gslb.avi.infosys-cloud.com/api/datasets/searchData/LATLTRLF42552/LateralOffer?page=7&size=10&sortEvent=BID&sortOrder=-1&searchParams=%7B%22and%22:%5B%5D%7D
+24/09/17 10:32:52 INFO GET Dataset API Status code: 200
+24/09/17 10:32:52 INFO ID : 5073
+24/09/17 10:32:52 INFO ID : 5072
+24/09/17 10:32:52 INFO ID : 5071
+24/09/17 10:32:52 INFO ID : 5070
+24/09/17 10:32:52 INFO ID : 5069
+24/09/17 10:32:52 INFO ID : 5068
+24/09/17 10:32:52 INFO ID : 5067
+24/09/17 10:32:52 INFO ID : 5066
+24/09/17 10:32:52 INFO ID : 5065
+24/09/17 10:32:52 INFO ID : 5064
+24/09/17 10:32:52 INFO Data set API : http://bizopstst.gslb.avi.infosys-cloud.com/api/datasets/searchData/LATLTRLF42552/LateralOffer?page=8&size=10&sortEvent=BID&sortOrder=-1&searchParams=%7B%22and%22:%5B%5D%7D
+24/09/17 10:32:53 INFO GET Dataset API Status code: 200
+24/09/17 10:32:53 INFO ID : 5063
+24/09/17 10:32:53 INFO ID : 5062
+24/09/17 10:32:53 INFO ID : 5061
+24/09/17 10:32:53 INFO ID : 5060
+24/09/17 10:32:53 INFO ID : 5059
+24/09/17 10:32:53 INFO ID : 5058
+24/09/17 10:32:53 INFO ID : 5057
+24/09/17 10:32:53 INFO ID : 5056
+24/09/17 10:32:53 INFO ID : 5055
+24/09/17 10:32:53 INFO ID : 5054
+24/09/17 10:32:53 INFO Data set API : http://bizopstst.gslb.avi.infosys-cloud.com/api/datasets/searchData/LATLTRLF42552/LateralOffer?page=9&size=10&sortEvent=BID&sortOrder=-1&searchParams=%7B%22and%22:%5B%5D%7D
+24/09/17 10:32:53 INFO GET Dataset API Status code: 200
+24/09/17 10:32:53 INFO ID : 5053
+24/09/17 10:32:53 INFO ID : 5052
+24/09/17 10:32:53 INFO ID : 5051
+24/09/17 10:32:53 INFO ID : 5050
+24/09/17 10:32:53 INFO ID : 5049
+24/09/17 10:32:53 INFO ID : 5048
+24/09/17 10:32:53 INFO ID : 5047
+24/09/17 10:32:53 INFO ID : 5046
+24/09/17 10:32:53 INFO ID : 5045
+24/09/17 10:32:53 INFO ID : 5044
+24/09/17 10:32:53 INFO Data set API : http://bizopstst.gslb.avi.infosys-cloud.com/api/datasets/searchData/LATLTRLF42552/LateralOffer?page=10&size=10&sortEvent=BID&sortOrder=-1&searchParams=%7B%22and%22:%5B%5D%7D
+24/09/17 10:32:53 INFO GET Dataset API Status code: 200
+24/09/17 10:32:53 INFO ID : 5043
+24/09/17 10:32:53 INFO ID : 5042
+24/09/17 10:32:53 INFO ID : 5041
+24/09/17 10:32:53 INFO ID : 5040
+24/09/17 10:32:53 INFO ID : 5039
+24/09/17 10:32:53 INFO ID : 5038
+24/09/17 10:32:53 INFO ID : 5037
+24/09/17 10:32:53 INFO ID : 5036
+24/09/17 10:32:53 INFO ID : 5035
+24/09/17 10:32:53 INFO ID : 5034
+24/09/17 10:32:53 INFO Data set API : http://bizopstst.gslb.avi.infosys-cloud.com/api/datasets/searchData/LATLTRLF42552/LateralOffer?page=11&size=10&sortEvent=BID&sortOrder=-1&searchParams=%7B%22and%22:%5B%5D%7D
+24/09/17 10:32:54 INFO GET Dataset API Status code: 200
+24/09/17 10:32:54 INFO ID : 5033
+24/09/17 10:32:54 INFO ID : 5032
+24/09/17 10:32:54 INFO ID : 5031
+24/09/17 10:32:54 INFO ID : 5030
+24/09/17 10:32:54 INFO ID : 5029
+24/09/17 10:32:54 INFO ID : 5028
+24/09/17 10:32:54 INFO ID : 5027
+24/09/17 10:32:54 INFO ID : 5026
+24/09/17 10:32:54 INFO ID : 5025
+24/09/17 10:32:54 INFO ID : 5024
+24/09/17 10:32:54 INFO Data set API : http://bizopstst.gslb.avi.infosys-cloud.com/api/datasets/searchData/LATLTRLF42552/LateralOffer?page=12&size=10&sortEvent=BID&sortOrder=-1&searchParams=%7B%22and%22:%5B%5D%7D
+24/09/17 10:32:54 INFO GET Dataset API Status code: 200
+24/09/17 10:32:54 INFO ID : 5023
+24/09/17 10:32:54 INFO ID : 5022
+24/09/17 10:32:54 INFO ID : 5021
+24/09/17 10:32:54 INFO ID : 5020
+24/09/17 10:32:54 INFO ID : 5019
+24/09/17 10:32:54 INFO ID : 5018
+24/09/17 10:32:54 INFO ID : 5017
+24/09/17 10:32:54 INFO ID : 5016
+24/09/17 10:32:54 INFO ID : 5015
+24/09/17 10:32:54 INFO ID : 5014
+24/09/17 10:32:54 INFO Data set API : http://bizopstst.gslb.avi.infosys-cloud.com/api/datasets/searchData/LATLTRLF42552/LateralOffer?page=13&size=10&sortEvent=BID&sortOrder=-1&searchParams=%7B%22and%22:%5B%5D%7D
+24/09/17 10:32:54 INFO GET Dataset API Status code: 200
+24/09/17 10:32:54 INFO ID : 5013
+24/09/17 10:32:54 INFO ID : 5012
+24/09/17 10:32:54 INFO ID : 5011
+24/09/17 10:32:54 INFO ID : 5010
+24/09/17 10:32:54 INFO ID : 5009
+24/09/17 10:32:54 INFO ID : 5008
+24/09/17 10:32:54 INFO ID : 4029
+24/09/17 10:32:54 INFO ID : 4028
+24/09/17 10:32:54 INFO ID : 4027
+24/09/17 10:32:54 INFO ID : 4026
+24/09/17 10:32:54 INFO Data set API : http://bizopstst.gslb.avi.infosys-cloud.com/api/datasets/searchData/LATLTRLF42552/LateralOffer?page=14&size=10&sortEvent=BID&sortOrder=-1&searchParams=%7B%22and%22:%5B%5D%7D
+24/09/17 10:32:55 INFO GET Dataset API Status code: 200
+24/09/17 10:32:55 INFO ID : 4025
+24/09/17 10:32:55 INFO ID : 4024
+24/09/17 10:32:55 INFO ID : 4023
+24/09/17 10:32:55 INFO ID : 4022
+24/09/17 10:32:55 INFO ID : 4021
+24/09/17 10:32:55 INFO ID : 4020
+24/09/17 10:32:55 INFO ID : 4019
+24/09/17 10:32:55 INFO ID : 4018
+24/09/17 10:32:55 INFO ID : 4017
+24/09/17 10:32:55 INFO ID : 4016
+24/09/17 10:32:55 INFO Data set API : http://bizopstst.gslb.avi.infosys-cloud.com/api/datasets/searchData/LATLTRLF42552/LateralOffer?page=15&size=10&sortEvent=BID&sortOrder=-1&searchParams=%7B%22and%22:%5B%5D%7D
+24/09/17 10:32:55 INFO GET Dataset API Status code: 200
+24/09/17 10:32:55 INFO ID : 4015
+24/09/17 10:32:55 INFO ID : 4014
+24/09/17 10:32:55 INFO ID : 4013
+24/09/17 10:32:55 INFO ID : 4012
+24/09/17 10:32:55 INFO ID : 4011
+24/09/17 10:32:55 INFO ID : 4010
+24/09/17 10:32:55 INFO ID : 4009
+24/09/17 10:32:55 INFO ID : 4008
+24/09/17 10:32:55 INFO ID : 4007
+24/09/17 10:32:55 INFO ID : 4006
+24/09/17 10:32:55 INFO Data set API : http://bizopstst.gslb.avi.infosys-cloud.com/api/datasets/searchData/LATLTRLF42552/LateralOffer?page=16&size=10&sortEvent=BID&sortOrder=-1&searchParams=%7B%22and%22:%5B%5D%7D
+24/09/17 10:32:55 INFO GET Dataset API Status code: 200
+24/09/17 10:32:55 INFO ID : 4005
+24/09/17 10:32:55 INFO ID : 4004
+24/09/17 10:32:55 INFO ID : 4003
+24/09/17 10:32:55 INFO ID : 4002
+24/09/17 10:32:55 INFO ID : 4001
+24/09/17 10:32:55 INFO ID : 4000
+24/09/17 10:32:55 INFO ID : 3999
+24/09/17 10:32:55 INFO ID : 3998
+24/09/17 10:32:55 INFO ID : 3997
+24/09/17 10:32:55 INFO ID : 3996
+24/09/17 10:32:55 INFO Data set API : http://bizopstst.gslb.avi.infosys-cloud.com/api/datasets/searchData/LATLTRLF42552/LateralOffer?page=17&size=10&sortEvent=BID&sortOrder=-1&searchParams=%7B%22and%22:%5B%5D%7D
+24/09/17 10:32:56 INFO GET Dataset API Status code: 200
+24/09/17 10:32:56 INFO ID : 3995
+24/09/17 10:32:56 INFO ID : 3994
+24/09/17 10:32:56 INFO ID : 3993
+24/09/17 10:32:56 INFO ID : 3992
+24/09/17 10:32:56 INFO ID : 3991
+24/09/17 10:32:56 INFO ID : 3990
+24/09/17 10:32:56 INFO ID : 3989
+24/09/17 10:32:56 INFO ID : 3988
+24/09/17 10:32:56 INFO ID : 3987
+24/09/17 10:32:56 INFO ID : 3986
+24/09/17 10:32:56 INFO Data set API : http://bizopstst.gslb.avi.infosys-cloud.com/api/datasets/searchData/LATLTRLF42552/LateralOffer?page=18&size=10&sortEvent=BID&sortOrder=-1&searchParams=%7B%22and%22:%5B%5D%7D
+24/09/17 10:32:56 INFO GET Dataset API Status code: 200
+24/09/17 10:32:56 INFO ID : 3985
+24/09/17 10:32:56 INFO ID : 3984
+24/09/17 10:32:56 INFO ID : 3983
+24/09/17 10:32:56 INFO ID : 3982
+24/09/17 10:32:56 INFO ID : 3981
+24/09/17 10:32:56 INFO ID : 3980
+24/09/17 10:32:56 INFO ID : 3979
+24/09/17 10:32:56 INFO ID : 3978
+24/09/17 10:32:56 INFO ID : 3977
+24/09/17 10:32:56 INFO ID : 3976
+24/09/17 10:32:56 INFO Data set API : http://bizopstst.gslb.avi.infosys-cloud.com/api/datasets/searchData/LATLTRLF42552/LateralOffer?page=19&size=10&sortEvent=BID&sortOrder=-1&searchParams=%7B%22and%22:%5B%5D%7D
+24/09/17 10:32:56 INFO GET Dataset API Status code: 200
+24/09/17 10:32:56 INFO ID : 3975
+24/09/17 10:32:56 INFO ID : 3974
+24/09/17 10:32:56 INFO ID : 3973
+24/09/17 10:32:56 INFO ID : 3972
+24/09/17 10:32:56 INFO ID : 3971
+24/09/17 10:32:56 INFO ID : 3970
+24/09/17 10:32:56 INFO ID : 3969
+24/09/17 10:32:56 INFO ID : 3968
+24/09/17 10:32:56 INFO ID : 2997
+24/09/17 10:32:56 INFO ID : 2996
+24/09/17 10:32:56 INFO Data set API : http://bizopstst.gslb.avi.infosys-cloud.com/api/datasets/searchData/LATLTRLF42552/LateralOffer?page=20&size=10&sortEvent=BID&sortOrder=-1&searchParams=%7B%22and%22:%5B%5D%7D
+24/09/17 10:32:57 INFO GET Dataset API Status code: 200
+24/09/17 10:32:57 INFO ID : 2995
+24/09/17 10:32:57 INFO ID : 2994
+24/09/17 10:32:57 INFO ID : 2993
+24/09/17 10:32:57 INFO ID : 2992
+24/09/17 10:32:57 INFO ID : 2991
+24/09/17 10:32:57 INFO ID : 2990
+24/09/17 10:32:57 INFO ID in case ID : 2990
+24/09/17 10:32:57 INFO ID : 2989
+24/09/17 10:32:57 INFO ID : 2988
+24/09/17 10:32:57 INFO ID : 2987
+24/09/17 10:32:57 INFO ID : 2986
+24/09/17 10:32:57 INFO Data set API : http://bizopstst.gslb.avi.infosys-cloud.com/api/datasets/searchData/LATLTRLF42552/LateralOffer?page=21&size=10&sortEvent=BID&sortOrder=-1&searchParams=%7B%22and%22:%5B%5D%7D
+24/09/17 10:32:57 INFO GET Dataset API Status code: 200
+24/09/17 10:32:57 INFO ID : 2985
+24/09/17 10:32:57 INFO ID : 2984
+24/09/17 10:32:57 INFO ID : 2983
+24/09/17 10:32:57 INFO ID : 2982
+24/09/17 10:32:57 INFO ID : 2981
+24/09/17 10:32:57 INFO ID : 2980
+24/09/17 10:32:57 INFO ID : 2979
+24/09/17 10:32:57 INFO ID : 2978
+24/09/17 10:32:57 INFO ID : 2977
+24/09/17 10:32:57 INFO ID : 2976
+24/09/17 10:32:57 INFO Data set API : http://bizopstst.gslb.avi.infosys-cloud.com/api/datasets/searchData/LATLTRLF42552/LateralOffer?page=22&size=10&sortEvent=BID&sortOrder=-1&searchParams=%7B%22and%22:%5B%5D%7D
+24/09/17 10:32:58 INFO GET Dataset API Status code: 200
+24/09/17 10:32:58 INFO ID : 2975
+24/09/17 10:32:58 INFO ID : 2974
+24/09/17 10:32:58 INFO ID : 2973
+24/09/17 10:32:58 INFO ID : 2972
+24/09/17 10:32:58 INFO ID : 2971
+24/09/17 10:32:58 INFO ID : 2970
+24/09/17 10:32:58 INFO ID : 2969
+24/09/17 10:32:58 INFO ID : 2968
+24/09/17 10:32:58 INFO ID : 2967
+24/09/17 10:32:58 INFO ID : 2966
+24/09/17 10:32:58 INFO Data set API : http://bizopstst.gslb.avi.infosys-cloud.com/api/datasets/searchData/LATLTRLF42552/LateralOffer?page=23&size=10&sortEvent=BID&sortOrder=-1&searchParams=%7B%22and%22:%5B%5D%7D
+24/09/17 10:32:58 INFO GET Dataset API Status code: 200
+24/09/17 10:32:58 INFO ID : 2965
+24/09/17 10:32:58 INFO ID : 2964
+24/09/17 10:32:58 INFO ID : 2963
+24/09/17 10:32:58 INFO ID : 2962
+24/09/17 10:32:58 INFO ID : 2961
+24/09/17 10:32:58 INFO ID : 2960
+24/09/17 10:32:58 INFO ID : 2959
+24/09/17 10:32:58 INFO ID : 2958
+24/09/17 10:32:58 INFO ID : 1980
+24/09/17 10:32:58 INFO ID : 1979
+24/09/17 10:32:58 INFO Data set API : http://bizopstst.gslb.avi.infosys-cloud.com/api/datasets/searchData/LATLTRLF42552/LateralOffer?page=24&size=10&sortEvent=BID&sortOrder=-1&searchParams=%7B%22and%22:%5B%5D%7D
+24/09/17 10:32:59 INFO GET Dataset API Status code: 200
+24/09/17 10:32:59 INFO ID : 1978
+24/09/17 10:32:59 INFO ID : 1977
+24/09/17 10:32:59 INFO ID : 1976
+24/09/17 10:32:59 INFO ID : 1975
+24/09/17 10:32:59 INFO ID : 1974
+24/09/17 10:32:59 INFO ID : 1973
+24/09/17 10:32:59 INFO ID : 1972
+24/09/17 10:32:59 INFO ID : 1971
+24/09/17 10:32:59 INFO ID : 1970
+24/09/17 10:32:59 INFO ID : 1969
+24/09/17 10:32:59 INFO Data set API : http://bizopstst.gslb.avi.infosys-cloud.com/api/datasets/searchData/LATLTRLF42552/LateralOffer?page=25&size=10&sortEvent=BID&sortOrder=-1&searchParams=%7B%22and%22:%5B%5D%7D
+24/09/17 10:32:59 INFO GET Dataset API Status code: 200
+24/09/17 10:32:59 INFO ID : 1968
+24/09/17 10:32:59 INFO ID : 1967
+24/09/17 10:32:59 INFO ID : 1966
+24/09/17 10:32:59 INFO ID : 1965
+24/09/17 10:32:59 INFO ID : 1964
+24/09/17 10:32:59 INFO ID : 1963
+24/09/17 10:32:59 INFO ID : 1962
+24/09/17 10:32:59 INFO ID : 1961
+24/09/17 10:32:59 INFO ID : 1960
+24/09/17 10:32:59 INFO ID : 1959
+24/09/17 10:32:59 INFO Data set API : http://bizopstst.gslb.avi.infosys-cloud.com/api/datasets/searchData/LATLTRLF42552/LateralOffer?page=26&size=10&sortEvent=BID&sortOrder=-1&searchParams=%7B%22and%22:%5B%5D%7D
+24/09/17 10:33:00 INFO GET Dataset API Status code: 200
+24/09/17 10:33:00 INFO ID : 1958
+24/09/17 10:33:00 INFO ID : 1957
+24/09/17 10:33:00 INFO ID : 1956
+24/09/17 10:33:00 INFO ID : 1955
+24/09/17 10:33:00 INFO ID : 1954
+24/09/17 10:33:00 INFO ID : 1953
+24/09/17 10:33:00 INFO ID : 1952
+24/09/17 10:33:00 INFO ID : 1951
+24/09/17 10:33:00 INFO ID : 1950
+24/09/17 10:33:00 INFO ID : 1949
+24/09/17 10:33:00 INFO Data set API : http://bizopstst.gslb.avi.infosys-cloud.com/api/datasets/searchData/LATLTRLF42552/LateralOffer?page=27&size=10&sortEvent=BID&sortOrder=-1&searchParams=%7B%22and%22:%5B%5D%7D
+24/09/17 10:33:00 INFO GET Dataset API Status code: 200
+24/09/17 10:33:00 INFO ID : 1948
+24/09/17 10:33:00 INFO ID : 1947
+24/09/17 10:33:00 INFO ID : 1946
+24/09/17 10:33:00 INFO ID : 1945
+24/09/17 10:33:00 INFO ID : 1944
+24/09/17 10:33:00 INFO ID : 1943
+24/09/17 10:33:00 INFO ID : 1942
+24/09/17 10:33:00 INFO ID : 1941
+24/09/17 10:33:00 INFO ID : 1940
+24/09/17 10:33:00 INFO ID : 1939
+24/09/17 10:33:00 INFO Data set API : http://bizopstst.gslb.avi.infosys-cloud.com/api/datasets/searchData/LATLTRLF42552/LateralOffer?page=28&size=10&sortEvent=BID&sortOrder=-1&searchParams=%7B%22and%22:%5B%5D%7D
+24/09/17 10:33:00 INFO GET Dataset API Status code: 200
+24/09/17 10:33:00 INFO ID : 1938
+24/09/17 10:33:00 INFO ID : 1937
+24/09/17 10:33:00 INFO ID in case ID : 1937
+24/09/17 10:33:00 INFO ID : 1936
+24/09/17 10:33:00 INFO ID : 1935
+24/09/17 10:33:00 INFO ID : 1934
+24/09/17 10:33:00 INFO ID : 1933
+24/09/17 10:33:00 INFO ID : 1932
+24/09/17 10:33:00 INFO ID : 1931
+24/09/17 10:33:00 INFO ID : 1930
+24/09/17 10:33:00 INFO ID : 1929
+24/09/17 10:33:00 INFO Data set API : http://bizopstst.gslb.avi.infosys-cloud.com/api/datasets/searchData/LATLTRLF42552/LateralOffer?page=29&size=10&sortEvent=BID&sortOrder=-1&searchParams=%7B%22and%22:%5B%5D%7D
+24/09/17 10:33:01 INFO GET Dataset API Status code: 200
+24/09/17 10:33:01 INFO ID : 1928
+24/09/17 10:33:01 INFO ID : 1927
+24/09/17 10:33:01 INFO ID : 1926
+24/09/17 10:33:01 INFO ID : 1925
+24/09/17 10:33:01 INFO ID : 1924
+24/09/17 10:33:01 INFO ID : 1923
+24/09/17 10:33:01 INFO ID : 1922
+24/09/17 10:33:01 INFO ID : 1921
+24/09/17 10:33:01 INFO ID : 1920
+24/09/17 10:33:01 INFO ID : 1919
+24/09/17 10:33:01 INFO Data set API : http://bizopstst.gslb.avi.infosys-cloud.com/api/datasets/searchData/LATLTRLF42552/LateralOffer?page=30&size=10&sortEvent=BID&sortOrder=-1&searchParams=%7B%22and%22:%5B%5D%7D
+24/09/17 10:33:01 INFO GET Dataset API Status code: 200
+24/09/17 10:33:01 INFO ID : 1918
+24/09/17 10:33:01 INFO ID : 1917
+24/09/17 10:33:01 INFO ID : 1916
+24/09/17 10:33:01 INFO ID : 1915
+24/09/17 10:33:01 INFO ID : 1914
+24/09/17 10:33:01 INFO ID : 1913
+24/09/17 10:33:01 INFO ID : 1912
+24/09/17 10:33:01 INFO ID : 1911
+24/09/17 10:33:01 INFO ID : 1910
+24/09/17 10:33:01 INFO ID : 1909
+24/09/17 10:33:01 INFO Data set API : http://bizopstst.gslb.avi.infosys-cloud.com/api/datasets/searchData/LATLTRLF42552/LateralOffer?page=31&size=10&sortEvent=BID&sortOrder=-1&searchParams=%7B%22and%22:%5B%5D%7D
+24/09/17 10:33:02 INFO GET Dataset API Status code: 200
+24/09/17 10:33:02 INFO ID : 1908
+24/09/17 10:33:02 INFO ID : 1907
+24/09/17 10:33:02 INFO ID : 1906
+24/09/17 10:33:02 INFO ID : 1905
+24/09/17 10:33:02 INFO ID : 1904
+24/09/17 10:33:02 INFO ID : 1903
+24/09/17 10:33:02 INFO ID : 1902
+24/09/17 10:33:02 INFO ID : 1901
+24/09/17 10:33:02 INFO ID : 1900
+24/09/17 10:33:02 INFO ID : 1899
+24/09/17 10:33:02 INFO Data set API : http://bizopstst.gslb.avi.infosys-cloud.com/api/datasets/searchData/LATLTRLF42552/LateralOffer?page=32&size=10&sortEvent=BID&sortOrder=-1&searchParams=%7B%22and%22:%5B%5D%7D
+24/09/17 10:33:02 INFO GET Dataset API Status code: 200
+24/09/17 10:33:02 INFO ID : 1898
+24/09/17 10:33:02 INFO ID : 1897
+24/09/17 10:33:02 INFO ID : 1896
+24/09/17 10:33:02 INFO ID : 1895
+24/09/17 10:33:02 INFO ID : 1894
+24/09/17 10:33:02 INFO ID : 1893
+24/09/17 10:33:02 INFO ID : 1892
+24/09/17 10:33:02 INFO ID : 1891
+24/09/17 10:33:02 INFO ID : 1890
+24/09/17 10:33:02 INFO ID : 1889
+24/09/17 10:33:02 INFO Data set API : http://bizopstst.gslb.avi.infosys-cloud.com/api/datasets/searchData/LATLTRLF42552/LateralOffer?page=33&size=10&sortEvent=BID&sortOrder=-1&searchParams=%7B%22and%22:%5B%5D%7D
+24/09/17 10:33:02 INFO GET Dataset API Status code: 200
+24/09/17 10:33:02 INFO ID : 1888
+24/09/17 10:33:02 INFO ID : 1887
+24/09/17 10:33:02 INFO ID : 1886
+24/09/17 10:33:02 INFO ID : 1885
+24/09/17 10:33:02 INFO ID : 1884
+24/09/17 10:33:02 INFO ID : 1883
+24/09/17 10:33:02 INFO ID : 1882
+24/09/17 10:33:02 INFO ID : 1881
+24/09/17 10:33:02 INFO ID : 1880
+24/09/17 10:33:02 INFO ID : 1879
+24/09/17 10:33:02 INFO Data set API : http://bizopstst.gslb.avi.infosys-cloud.com/api/datasets/searchData/LATLTRLF42552/LateralOffer?page=34&size=10&sortEvent=BID&sortOrder=-1&searchParams=%7B%22and%22:%5B%5D%7D
+24/09/17 10:33:03 INFO GET Dataset API Status code: 200
+24/09/17 10:33:03 INFO ID : 1878
+24/09/17 10:33:03 INFO ID : 1877
+24/09/17 10:33:03 INFO ID : 1876
+24/09/17 10:33:03 INFO ID : 1875
+24/09/17 10:33:03 INFO ID : 1874
+24/09/17 10:33:03 INFO ID : 1873
+24/09/17 10:33:03 INFO ID : 1872
+24/09/17 10:33:03 INFO ID : 1871
+24/09/17 10:33:03 INFO ID : 1870
+24/09/17 10:33:03 INFO ID : 1869
+24/09/17 10:33:03 INFO Data set API : http://bizopstst.gslb.avi.infosys-cloud.com/api/datasets/searchData/LATLTRLF42552/LateralOffer?page=35&size=10&sortEvent=BID&sortOrder=-1&searchParams=%7B%22and%22:%5B%5D%7D
+24/09/17 10:33:03 INFO GET Dataset API Status code: 200
+24/09/17 10:33:03 INFO ID : 1868
+24/09/17 10:33:03 INFO ID : 1867
+24/09/17 10:33:03 INFO ID : 1866
+24/09/17 10:33:03 INFO ID : 1865
+24/09/17 10:33:03 INFO ID : 1864
+24/09/17 10:33:03 INFO ID : 1863
+24/09/17 10:33:03 INFO ID : 1862
+24/09/17 10:33:03 INFO ID : 1861
+24/09/17 10:33:03 INFO ID : 1860
+24/09/17 10:33:03 INFO ID : 1859
+24/09/17 10:33:03 INFO Data set API : http://bizopstst.gslb.avi.infosys-cloud.com/api/datasets/searchData/LATLTRLF42552/LateralOffer?page=36&size=10&sortEvent=BID&sortOrder=-1&searchParams=%7B%22and%22:%5B%5D%7D
+24/09/17 10:33:03 INFO GET Dataset API Status code: 200
+24/09/17 10:33:03 INFO ID : 1858
+24/09/17 10:33:03 INFO ID : 1857
+24/09/17 10:33:03 INFO ID : 1856
+24/09/17 10:33:03 INFO ID : 1855
+24/09/17 10:33:03 INFO ID : 1854
+24/09/17 10:33:03 INFO ID : 1853
+24/09/17 10:33:03 INFO ID : 1852
+24/09/17 10:33:03 INFO ID : 1851
+24/09/17 10:33:03 INFO ID : 1850
+24/09/17 10:33:03 INFO ID : 1849
+24/09/17 10:33:03 INFO Data set API : http://bizopstst.gslb.avi.infosys-cloud.com/api/datasets/searchData/LATLTRLF42552/LateralOffer?page=37&size=10&sortEvent=BID&sortOrder=-1&searchParams=%7B%22and%22:%5B%5D%7D
+24/09/17 10:33:04 INFO GET Dataset API Status code: 200
+24/09/17 10:33:04 INFO ID : 1848
+24/09/17 10:33:04 INFO ID : 1847
+24/09/17 10:33:04 INFO ID : 1846
+24/09/17 10:33:04 INFO ID : 1845
+24/09/17 10:33:04 INFO ID : 1844
+24/09/17 10:33:04 INFO ID : 1843
+24/09/17 10:33:04 INFO ID : 1842
+24/09/17 10:33:04 INFO ID : 1841
+24/09/17 10:33:04 INFO ID : 1840
+24/09/17 10:33:04 INFO ID : 1839
+24/09/17 10:33:04 INFO Data set API : http://bizopstst.gslb.avi.infosys-cloud.com/api/datasets/searchData/LATLTRLF42552/LateralOffer?page=38&size=10&sortEvent=BID&sortOrder=-1&searchParams=%7B%22and%22:%5B%5D%7D
+24/09/17 10:33:04 INFO GET Dataset API Status code: 200
+24/09/17 10:33:04 INFO ID : 1838
+24/09/17 10:33:04 INFO ID : 1837
+24/09/17 10:33:04 INFO ID : 1836
+24/09/17 10:33:04 INFO ID : 1835
+24/09/17 10:33:04 INFO ID : 1834
+24/09/17 10:33:04 INFO ID : 1833
+24/09/17 10:33:04 INFO ID : 1832
+24/09/17 10:33:04 INFO ID : 1831
+24/09/17 10:33:04 INFO ID : 1830
+24/09/17 10:33:04 INFO ID : 1829
+24/09/17 10:33:04 INFO Data set API : http://bizopstst.gslb.avi.infosys-cloud.com/api/datasets/searchData/LATLTRLF42552/LateralOffer?page=39&size=10&sortEvent=BID&sortOrder=-1&searchParams=%7B%22and%22:%5B%5D%7D
+24/09/17 10:33:04 INFO GET Dataset API Status code: 200
+24/09/17 10:33:04 INFO ID : 1828
+24/09/17 10:33:04 INFO ID : 1827
+24/09/17 10:33:04 INFO ID : 1826
+24/09/17 10:33:04 INFO ID : 1825
+24/09/17 10:33:04 INFO ID : 1824
+24/09/17 10:33:04 INFO ID : 1823
+24/09/17 10:33:04 INFO ID : 1822
+24/09/17 10:33:04 INFO ID : 1821
+24/09/17 10:33:04 INFO ID : 1820
+24/09/17 10:33:04 INFO ID : 1819
+24/09/17 10:33:04 INFO Data set API : http://bizopstst.gslb.avi.infosys-cloud.com/api/datasets/searchData/LATLTRLF42552/LateralOffer?page=40&size=10&sortEvent=BID&sortOrder=-1&searchParams=%7B%22and%22:%5B%5D%7D
+24/09/17 10:33:05 INFO GET Dataset API Status code: 200
+24/09/17 10:33:05 INFO ID : 1818
+24/09/17 10:33:05 INFO ID : 1817
+24/09/17 10:33:05 INFO ID : 1816
+24/09/17 10:33:05 INFO ID : 1815
+24/09/17 10:33:05 INFO ID : 1814
+24/09/17 10:33:05 INFO ID : 1813
+24/09/17 10:33:05 INFO ID : 1812
+24/09/17 10:33:05 INFO ID : 1811
+24/09/17 10:33:05 INFO ID : 1810
+24/09/17 10:33:05 INFO ID : 1809
+24/09/17 10:33:05 INFO Data set API : http://bizopstst.gslb.avi.infosys-cloud.com/api/datasets/searchData/LATLTRLF42552/LateralOffer?page=41&size=10&sortEvent=BID&sortOrder=-1&searchParams=%7B%22and%22:%5B%5D%7D
+24/09/17 10:33:05 INFO GET Dataset API Status code: 200
+24/09/17 10:33:05 INFO ID : 1808
+24/09/17 10:33:05 INFO ID : 1807
+24/09/17 10:33:05 INFO ID : 1806
+24/09/17 10:33:05 INFO ID : 1805
+24/09/17 10:33:05 INFO ID : 1804
+24/09/17 10:33:05 INFO ID : 1803
+24/09/17 10:33:05 INFO ID : 1802
+24/09/17 10:33:05 INFO ID : 1801
+24/09/17 10:33:05 INFO ID : 1800
+24/09/17 10:33:05 INFO ID : 1799
+24/09/17 10:33:05 INFO Data set API : http://bizopstst.gslb.avi.infosys-cloud.com/api/datasets/searchData/LATLTRLF42552/LateralOffer?page=42&size=10&sortEvent=BID&sortOrder=-1&searchParams=%7B%22and%22:%5B%5D%7D
+24/09/17 10:33:05 INFO GET Dataset API Status code: 200
+24/09/17 10:33:05 INFO ID : 1798
+24/09/17 10:33:05 INFO ID : 1797
+24/09/17 10:33:05 INFO ID : 1796
+24/09/17 10:33:05 INFO ID : 1795
+24/09/17 10:33:05 INFO ID : 1794
+24/09/17 10:33:05 INFO ID : 1793
+24/09/17 10:33:05 INFO ID : 1792
+24/09/17 10:33:05 INFO ID : 1791
+24/09/17 10:33:05 INFO ID : 1790
+24/09/17 10:33:05 INFO ID : 1789
+24/09/17 10:33:05 INFO Data set API : http://bizopstst.gslb.avi.infosys-cloud.com/api/datasets/searchData/LATLTRLF42552/LateralOffer?page=43&size=10&sortEvent=BID&sortOrder=-1&searchParams=%7B%22and%22:%5B%5D%7D
+24/09/17 10:33:06 INFO GET Dataset API Status code: 200
+24/09/17 10:33:06 INFO ID : 1788
+24/09/17 10:33:06 INFO ID : 1787
+24/09/17 10:33:06 INFO ID : 1786
+24/09/17 10:33:06 INFO ID : 1785
+24/09/17 10:33:06 INFO ID : 1784
+24/09/17 10:33:06 INFO ID : 1783
+24/09/17 10:33:06 INFO ID : 1782
+24/09/17 10:33:06 INFO ID : 1781
+24/09/17 10:33:06 INFO ID : 1780
+24/09/17 10:33:06 INFO ID : 1779
+24/09/17 10:33:06 INFO Data set API : http://bizopstst.gslb.avi.infosys-cloud.com/api/datasets/searchData/LATLTRLF42552/LateralOffer?page=44&size=10&sortEvent=BID&sortOrder=-1&searchParams=%7B%22and%22:%5B%5D%7D
+24/09/17 10:33:06 INFO GET Dataset API Status code: 200
+24/09/17 10:33:06 INFO ID : 1778
+24/09/17 10:33:06 INFO ID : 1777
+24/09/17 10:33:06 INFO ID : 1776
+24/09/17 10:33:06 INFO ID : 1775
+24/09/17 10:33:06 INFO ID : 1774
+24/09/17 10:33:06 INFO ID : 1773
+24/09/17 10:33:06 INFO ID in case ID : 1773
+24/09/17 10:33:06 INFO ID : 1772
+24/09/17 10:33:06 INFO ID : 1771
+24/09/17 10:33:06 INFO ID : 1770
+24/09/17 10:33:06 INFO ID : 1769
+24/09/17 10:33:06 INFO Breaking total iteration loop
+24/09/17 10:33:06 INFO case id match count3
+24/09/17 10:33:08 INFO GET Application ID API Response status code:200
+24/09/17 10:33:08 INFO Application ID Available in Intap :11973589
+24/09/17 10:33:09 INFO GET Remote work location API Response code :200
+24/09/17 10:33:09 INFO Remote work location Code value :346324
+24/09/17 10:33:09 INFO GET Category Code API Response status code :200
+24/09/17 10:33:09 INFO category Code value :34
+24/09/17 10:33:09 INFO GET Education Category Code API Response code :200
+24/09/17 10:33:09 INFO Education category Code value :8
+24/09/17 10:33:10 INFO GET PU Code API Response code :200
+24/09/17 10:33:10 INFO PU Code value :430
+24/09/17 10:33:10 INFO GET LOP API Response code :200
+24/09/17 10:33:10 INFO LOP code value :Kolkata
+24/09/17 10:33:10 INFO GET ROLE Code API Response code :200
+24/09/17 10:33:10 INFO role Code value  :2015BCONSL
+24/09/17 10:33:11 INFO GET Account name code API Response code :200
+24/09/17 10:33:11 INFO Account Code value :None
+24/09/17 10:33:11 INFO Propose offer API Json Input :{"indents": "", "indentTypes": "", "candidateIds": "1001012288", "activityIds": "600101", "rolecapCodes": "2015BCONSL", "puIds": "430", "categoryIds": "34", "dojs": "2024-11-11", "applicationIds": "11973589", "relevantExperiences": 120, "postingLocations": "348659", "cc": "", "grossPerAnnums": "2200000", "hiringTypes": "Digital", "digitalOfferinges": "HANA BI Migration and Simplification", "digitalTags": "SAP HANA Analytics Professional", "joiningBonuss": 0, "stretchs": 13.46, "establishmentSubtypes": "STP", "flag": "Draft", "comments": "Technology/Skill - Sharepoint, Power Platform : T50 - Yes : 2% AD - No : AE - Na% : Stretch - 13.46% : RWI \u2013 No : Account Name \u2013 No Account", "recruiter": "1357116", "recruiterManager": "697257", "educationCategorys": "8", "careerLevel": null, "programmingLevel": null, "remoteWorkHome": "N", "remoteWorkLocation": null, "remoteEndDate": null, "longTermBonus": null, "partTimeEmp": "N", "workType": null, "partTimeEnddate": "", "partTimeTerm": null, "additionalAddendumId": null}
+24/09/17 10:33:11 INFO Propose offer API Response status code :200
+24/09/17 10:33:12 INFO Salary Update API Response code :200
+24/09/17 10:33:12 INFO  Salary update status :True
+24/09/17 10:33:12 INFO Leap case status update api response statuscode :500
+24/09/17 10:33:12 INFO Output file generation - Started
+24/09/17 10:33:12 INFO Output file generation Completed
+24/09/17 10:33:12 INFO Mail application is not enabled. Hence, we cannot send mails
+24/09/17 10:33:12 INFO GET Application ID API Response status code:200
+24/09/17 10:33:12 INFO Application ID Available in Intap :1403815
+24/09/17 10:33:13 INFO GET Remote work location API Response code :200
+24/09/17 10:33:13 INFO Remote work location Code value :346324
+24/09/17 10:33:13 INFO GET Category Code API Response status code :200
+24/09/17 10:33:13 INFO category Code value :34
+24/09/17 10:33:13 INFO GET Education Category Code API Response code :200
+24/09/17 10:33:13 INFO Education category Code value :8
+24/09/17 10:33:14 INFO GET PU Code API Response code :200
+24/09/17 10:33:14 INFO PU Code value :1407
+24/09/17 10:33:14 INFO GET LOP API Response code :200
+24/09/17 10:33:14 INFO LOP code value :Kolkata
+24/09/17 10:33:14 INFO GET ROLE Code API Response code :200
+24/09/17 10:33:14 INFO role Code value  :2015ASRCON
+24/09/17 10:33:15 INFO GET Account name code API Response code :200
+24/09/17 10:33:15 INFO Account Code value :None
+24/09/17 10:33:15 INFO Propose offer API Json Input :{"indents": "", "indentTypes": "", "candidateIds": "1001017124", "activityIds": "600101", "rolecapCodes": "2015ASRCON", "puIds": "1407", "categoryIds": "34", "dojs": "2024-11-11", "applicationIds": "1403815", "relevantExperiences": 120, "postingLocations": "348659", "cc": "", "grossPerAnnums": "2200000", "hiringTypes": "Digital", "digitalOfferinges": "Oracle Cloud", "digitalTags": "Oracle Cloud Professional", "joiningBonuss": 0, "stretchs": 13.46, "establishmentSubtypes": "STP", "flag": "Draft", "comments": "Technology/Skill - Oracle Siebel : T50 - Yes : 2% AD - None : AE - None% : Stretch - 13.46% : RWI \u2013 No : Account Name \u2013 No Account", "recruiter": "1357116", "recruiterManager": "697257", "educationCategorys": "8", "careerLevel": null, "programmingLevel": null, "remoteWorkHome": "N", "remoteWorkLocation": null, "remoteEndDate": null, "longTermBonus": null, "partTimeEmp": "N", "workType": null, "partTimeEnddate": "", "partTimeTerm": null, "additionalAddendumId": null}
+24/09/17 10:33:16 INFO Propose offer API Response status code :200
+24/09/17 10:33:16 INFO Salary Update API Response code :200
+24/09/17 10:33:16 INFO  Salary update status :True
+24/09/17 10:33:16 INFO Leap case status update api response statuscode :500
+24/09/17 10:33:16 INFO Output file generation - Started
+24/09/17 10:33:16 INFO Output file generation Completed
+24/09/17 10:33:16 INFO Mail application is not enabled. Hence, we cannot send mails
+24/09/17 10:33:16 INFO GET Application ID API Response status code:200
+24/09/17 10:33:17 INFO Leap case status update api response statuscode :500
+24/09/17 10:33:17 INFO Output file generation - Started
+24/09/17 10:33:17 INFO Output file generation Completed
+24/09/17 10:33:17 INFO Mail application is not enabled. Hence, we cannot send mails

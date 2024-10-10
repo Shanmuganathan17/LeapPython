@@ -1,0 +1,10 @@
+2024-09-25 15:28:54,726-my_logger-DEBUG-this is a debug msg
+2024-09-25 15:28:54,727-my_logger-ERROR-user logged in
+2024-09-25 15:28:54,728-my_logger-WARNING-file was blocked
+2024-09-25 15:29:17,265-my_logger-DEBUG-this is a debug msg
+2024-09-25 15:29:17,266-my_logger-ERROR-user logged in
+2024-09-25 15:29:17,267-my_logger-WARNING-file was blocked
+2024-09-25 15:29:17,268-my_logger-INFO-Log Check
+2024-09-25 15:29:34,818-my_logger-ERROR-user logged in
+2024-09-25 15:29:34,819-my_logger-WARNING-file was blocked
+2024-09-25 15:29:34,820-my_logger-INFO-Log Check
